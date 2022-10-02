@@ -1,6 +1,5 @@
 # Assignment1
 
-
 Ketan Sabharwal - 101917205
 
 ## Task
@@ -19,4 +18,4 @@ The RMSE value of models are:-
 <ol>Kernal Ridge      --> 101.81986414973701</ol>
 <ol>Gradient Boosting --> 39.30487911259266</ol>
 
-## RMSE value of best model is 38.204 by Gradient Boosting
+# RMSE value of best model is 39.3048 by Gradient Boosting
